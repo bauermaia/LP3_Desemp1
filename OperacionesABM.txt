@@ -1,0 +1,116 @@
+Alta Propietario
+Nombre:Maia
+Apellido:Bauer
+------------------
+Alta Propietario
+Nombre:Francisco
+Apellido:Bauer
+------------------
+Modificación Propietario
+Nombre:Francisco
+Apellido:Bauer
+------------------
+Modificación Propietario
+Nombre:Maia Ailín
+Apellido:Bauer
+------------------
+Alta Propietario
+Nombre:Marisol
+Apellido:López
+------------------
+Modificación Propietario
+Nombre:Marisol Romina
+Apellido:Lopez
+------------------
+Alta Propietario
+Nombre:Juan
+Apellido:Perez
+------------------
+Eliminación de Propietario
+Nombre:System.Web.UI.WebControls.DataControlFieldCell
+Apellido:System.Web.UI.WebControls.DataControlFieldCell
+------------------
+Alta Propiedad
+Calle:Mitre
+Altura:1755
+------------------
+Alta Propiedad
+Calle:Campichuelo
+Altura:690
+------------------
+Modificación Propiedad
+Calle:Campichuelo
+Altura:690 PB D
+------------------
+Alta Propietario
+Nombre:Esteban
+Apellido:Gerardo
+------------------
+Alta Propiedad
+Calle:Boyaca
+Altura:123
+------------------
+Alta Propiedad
+Calle:Albarracin
+Altura:32
+------------------
+Modificación Propiedad
+Calle:Campichuelo
+Altura:690 PB D
+------------------
+Eliminación de Propiedad
+Calle:Mitre
+Altura:1755
+------------------
+Alta Alquiler
+Monto:35000
+Propiedad:2
+------------------
+Alta Alquiler
+Monto:500000
+Propiedad:3
+------------------
+Modificación Alquiler
+Calle:500540,00
+Propiedad:3
+------------------
+Alta Alquiler
+Monto:64645654
+Propiedad:3
+------------------
+Eliminación de Alquiler
+id Alquiler:3
+Propiedad:Boyaca
+------------------
+Alta Alquiler
+Monto:541
+Propiedad:4
+------------------
+Modificación Alquiler
+Calle:54100,00
+Propiedad:4
+------------------
+Alta Propiedad
+Calle:Monte Verde
+Altura:13213
+------------------
+Alta Alquiler
+Monto:635465
+Propiedad:5
+------------------
+Eliminación de Alquiler
+id Alquiler:5
+Propiedad:Monte Verde
+------------------
+Eliminación de Alquiler
+id Alquiler:5
+Propiedad:Monte Verde
+------------------
+Eliminación de Alquiler
+id Alquiler:5
+Propiedad:Monte Verde
+------------------
+Eliminación de Alquiler
+id Alquiler:5
+Propiedad:Monte Verde
+------------------
